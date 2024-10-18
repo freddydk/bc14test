@@ -3,5 +3,6 @@
   "appFolders": [],
   "testFolders": [],
   "bcptTestFolders": [],
-  "artifact": "https://bcartifacts.azureedge.net/onprem/14.21.46103.0/at"
+  "artifact": "https://bcartifacts.azureedge.net/onprem/14.21.46103.0/at",
+  "applicationDependency":"14.21.46103.0"
 }
